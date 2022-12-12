@@ -5,9 +5,11 @@ Microsserviço escalável com Node.js
 
 ## Backend
 Aplicação moderna com:
-- Node.js; 
-- NestJS; 
-- Prisma; 
-- TypeScript; 
-- Redis 
+- Faker;
+- Jest;
+- Nest;
+- TypeScript;
+- Prisma;
+- Redis;
+- NodeJs
 entre outras.
