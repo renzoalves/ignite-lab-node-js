@@ -14,13 +14,13 @@ $ npm run start:dev
 
 # 🥉Backend
 Aplicação moderna com:
-## 📝Faker;
-## 📝Jest;
-## 📝TypeScript;
-## 📝Redis;
-## 📝NodeJs
+### 📝Faker;
+### 📝Jest;
+### 📝TypeScript;
+### 📝Redis;
+### 📝NodeJs
 
-## 📝Nest Js: 
+### 📝Nest Js: 
 [Ver Documentação](https://docs.nestjs.com/#installation)
 
 ```bash
@@ -60,7 +60,7 @@ prisma.service.ts
 documentação do NestJs:
 
 
-## 📝Prisma:
+### 📝Prisma:
 ```bash
 # Instalação: Versão CLI, com dependência de Desenvolvimento para automatizar alguns processos, criar Migartions, etc.
 $ npm i prisma -D
