@@ -5,8 +5,12 @@ Microsserviço escalável com Node.js
 <br><br>
 
 # 🥈Aplicação
-🎁Pasta: 'notifications-service'
-<br><br>
+🎁Para rodar a aplicação:
+```Bash
+$ npx prisma studio
+$ npm run start:dev
+````
+
 
 # 🥉Backend
 Aplicação moderna com:
