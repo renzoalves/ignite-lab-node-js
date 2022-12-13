@@ -85,5 +85,5 @@ $ npx prisma studio
 ```bash
 # 1:05:46 - testando o retorno nas 'notifications'
 # 1:08:50 - requisição no Postman
-# 1:18:46
+# 1:18:46 - seguindo
 ```
